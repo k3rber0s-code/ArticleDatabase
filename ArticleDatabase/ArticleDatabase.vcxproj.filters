@@ -27,4 +27,8 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="a.txt" />
+    <Text Include="b.txt" />
+  </ItemGroup>
 </Project>
